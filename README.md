@@ -63,5 +63,16 @@ test.sh
 ### Motion capture
 ![table](figures/3d_mesh.png)
 
-<iframe src="//player.bilibili.com/player.html?aid=763380530&bvid=BV1kr4y117BA&cid=419263686&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe 
+    src="//player.bilibili.com/player.html?aid=88205168&bvid=BV1t741157Lf&cid=150596580&page=1" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    style="border:0;width:80%;height:80%;min-height:790px;"
+    allowfullscreen="true">
+</iframe>
 
+
+<video src="https://www.bilibili.com/video/BV1GW411Y7EU?spm_id_from=333.999.0.0" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=49775093&cid=87150521&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
