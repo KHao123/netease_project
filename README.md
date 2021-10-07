@@ -65,4 +65,4 @@ test.sh
 ![exp](figures/3d_mesh_exp.gif)
 ### Motion generation
 ![exp1](figures/motion_exp1.gif)
-
+![exp2](figures/motion_exp2.gif)
