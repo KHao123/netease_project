@@ -62,3 +62,6 @@ test.sh
 ## Results
 ### Motion capture
 ![table](figures/3d_mesh.png)
+
+<iframe src="//player.bilibili.com/player.html?aid=763380530&bvid=BV1kr4y117BA&cid=419263686&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
